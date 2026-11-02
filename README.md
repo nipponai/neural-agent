@@ -6,6 +6,10 @@ The official distribution repository for **Neural Agent**, NEURAL's agent enviro
 
 [Official website](https://nipponai.github.io/) · [日本語](https://nipponai.github.io/ja/) · [Other NEURAL product](https://github.com/nipponai/neural-runtime)
 
+## AI orchestration, made approachable
+
+Neural Agent brings skills, tools, and workflows together so you can build coordinated AI tasks more easily. Combine reusable capabilities and workflow steps, then **create new chats that use your chosen skills and workflows**. Agent orchestration stays separate from the inference engine.
+
 ## Release status
 
 **In development. No official binary release is available yet.**
